@@ -11,7 +11,7 @@
       },
       {
         "id": "1-2",
-        "image": "/images/story1.jpg",
+        "image": "/images/story1-1.jpg",
         "timestamp": "1h ago"
       }
     ]
@@ -28,12 +28,12 @@
       },
       {
         "id": "2-2",
-        "image": "/images/story2.jpg",
+        "image": "/images/story2-1.jpg",
         "timestamp": "5m ago"
       },
       {
         "id": "2-3",
-        "image": "/images/story2.jpg",
+        "image": "/images/story2-2.jpg",
         "timestamp": "1m ago"
       }
     ]
@@ -62,7 +62,7 @@
       },
       {
         "id": "4-2",
-        "image": "/images/story4.jpg",
+        "image": "/images/story4-1.jpg",
         "timestamp": "4h ago"
       }
     ]
