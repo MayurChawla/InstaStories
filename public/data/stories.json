@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "username": "Your story",
+    "thumbnail": "/images/profile1.jpg",
+    "items": [
+      {
+        "id": "1-1",
+        "image": "/images/story1.jpg",
+        "timestamp": "2h ago"
+      },
+      {
+        "id": "1-2",
+        "image": "/images/story1-1.jpg",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "username": "Candid",
+    "thumbnail": "/images/profile2.jpg",
+    "items": [
+      {
+        "id": "2-1",
+        "image": "/images/story2.jpg",
+        "timestamp": "10m ago"
+      },
+      {
+        "id": "2-2",
+        "image": "/images/story2-1.jpg",
+        "timestamp": "5m ago"
+      },
+      {
+        "id": "2-3",
+        "image": "/images/story2-2.jpg",
+        "timestamp": "1m ago"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "username": "sprinkles_5",
+    "thumbnail": "/images/profile3.jpg",
+    "items": [
+      {
+        "id": "3-1",
+        "image": "/images/story3.jpg",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "username": "super_sami",
+    "thumbnail": "/images/profile4.jpg",
+    "items": [
+      {
+        "id": "4-1",
+        "image": "/images/story4.jpg",
+        "timestamp": "5h ago"
+      },
+      {
+        "id": "4-2",
+        "image": "/images/story4-1.jpg",
+        "timestamp": "4h ago"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "username": "jade_22",
+    "thumbnail": "/images/profile5.jpg",
+    "items": [
+      {
+        "id": "5-1",
+        "image": "/images/story5.jpg",
+        "timestamp": "23h ago"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "username": "travel_bug",
+    "thumbnail": "/images/profile6.jpg",
+    "items": [
+      {
+        "id": "6-1",
+        "image": "/images/story6.jpg",
+        "timestamp": "23h ago"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "username": "photo_pro",
+    "thumbnail": "/images/profile7.jpg",
+    "items": [
+      {
+        "id": "6-1",
+        "image": "/images/story7.jpg",
+        "timestamp": "23h ago"
+      }
+    ]
+  }
+]
